@@ -2,8 +2,8 @@ import React, { useState, useEffect }  from 'react';
 //import Products from './components/Products/Products';
 //import Navbar from './components/Navbar/Navbar';
 import { commerce } from  './lib/commerce'
-import { Products, Navbar } from './components';
-import { CardTravel } from '@material-ui/icons';
+import { Products, Navbar, Cart } from './components';
+
 
 const App = () => {
 
@@ -38,8 +38,9 @@ const App = () => {
 
     return (
         <div>
-            <Navbar totalItems={cart.total_items} />
-            <Products products={products} onAddToCart={handleAddCart} />
+             <Navbar  totalItems={cart.total_items}/>
+            {/* <Products products={products} onAddToCart={handleAddToCart}/> */}
+            <Cart cart={cart}/>
         </div>
     )
 }
