@@ -3,7 +3,7 @@ import { CssBaseline, Paper, Stepper, Step, StepLabel, Typography, CircularProgr
 import { Link, useHistory } from 'react-router-dom';
 
 import { commerce } from '../../../lib/commerce';
-import AddressForm from '../AddressForm';
+import AddressForm from '../AdressForm';
 import PaymentForm from '../PaymentForm';
 import useStyles from './styles';
 
