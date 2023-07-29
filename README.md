@@ -1,3 +1,10 @@
+# Ecommerce_Shopping_Stripe
+
+The main goal of this project was to create an efficient and user-friendly shopping cart, allowing customers to purchase items seamlessly using the Stripe service for secure credit card transactions. To achieve this, the project involved the integration of React and Commerce.js, enabling a smooth and intuitive shopping experience for users.
+
+# Link to the project
+[E-commerce project](https://ah-ecommerce.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Ecommerce_Shopping_Stripe
+
+
+
