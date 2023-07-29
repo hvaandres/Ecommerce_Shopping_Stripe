@@ -5,6 +5,10 @@ The main goal of this project was to create an efficient and user-friendly shopp
 # Link to the project
 [E-commerce project](https://ah-ecommerce.netlify.app/)
 
+# Link to the documentation I used:
+[Stripe API](https://stripe.com/docs/api)
+[EcommerceJS](https://commercejs.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
